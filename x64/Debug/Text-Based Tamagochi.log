@@ -1,0 +1,7 @@
+﻿  Text-Based Tamagochi.cpp
+A:\game projects\Code\C++\Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi.cpp(18,12): warning C4552: '+': result of expression not used
+A:\game projects\Code\C++\Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi.cpp(25,12): warning C4552: '+': result of expression not used
+A:\game projects\Code\C++\Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi.cpp(45,11): warning C4553: '==': result of expression not used; did you intend '='?
+A:\game projects\Code\C++\Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi.cpp(49,16): warning C4553: '==': result of expression not used; did you intend '='?
+A:\game projects\Code\C++\Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi\Text-Based Tamagochi.cpp(106,13): warning C4102: 'deafult': unreferenced label
+  Text-Based Tamagochi.vcxproj -> A:\game projects\Code\C++\Tamagochi\Text-Based Tamagochi\x64\Debug\Text-Based Tamagochi.exe
